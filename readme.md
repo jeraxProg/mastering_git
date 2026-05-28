@@ -1,5 +1,4 @@
-## Heyo Everyone Welcome to my Git Guide!
+## Welcome to Git!
 
-
--Yow, Anelio here!
+- I'm adding this from `dev-laica'
 - I'm adding this from `feature-branch`
